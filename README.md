@@ -2,4 +2,4 @@
 
 Movie app built with React, Apollo and GraphQL
 
-0.4 Router and Styles
+1.3 Apollo Cache and Styles
