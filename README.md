@@ -2,4 +2,4 @@
 
 Movie app built with React, Apollo and GraphQL
 
-1.4 Data & Apollo Dev Tools
+2.3 Conclusions
